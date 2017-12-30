@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1033793519257",
+    "firebase_url": "https://chugli-fec7f.firebaseio.com",
+    "project_id": "chugli-fec7f",
+    "storage_bucket": "chugli-fec7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033793519257:android:48dd3a03d3d8f27d",
+        "android_client_info": {
+          "package_name": "com.example.jackhammer.chugli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033793519257-kt2h08preajjh6k662h387mr0v8d6j0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jackhammer.chugli",
+            "certificate_hash": "d1424f80580a392c717209695d5fdf38bc171d2d"
+          }
+        },
+        {
+          "client_id": "1033793519257-315itg7vjuffiu54cqeup7fbhavap1s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUA89ZcXvn63KbWInB1Vrn7CFZDGr7_eE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033793519257-315itg7vjuffiu54cqeup7fbhavap1s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
